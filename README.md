@@ -7,7 +7,7 @@ https://ionmateus.github.io/bouncing-stars/
 <p>Gerador de estrelas</p>
 
 ## Dados
-* Criado em 13/05/2023
+* Criado em 13 de maio de 2023
 * Feito com HTML, CSS e JS
 
 ## Imagens
