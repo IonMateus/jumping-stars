@@ -6,6 +6,9 @@ https://ionmateus.github.io/bouncing-stars/
 ## Descrição
 <p>Gerador de estrelas</p>
 
+## Como usar
+<p>Altere os valores pelos inputs para mudar o comportamento das estrelas.</p>
+
 ## Dados
 * Criado em 13 de maio de 2023
 * Feito com HTML, CSS e JS
