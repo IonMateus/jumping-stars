@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bouncing Stars</title>
+    <link rel="stylesheet" href="./style2.css">
+    <script src="./script2.js"></script>
+    <script src="btn.js"></script>
+</head>
+<body> 
+    <canvas id="canvas"></canvas>
+
+    <button id="ocultarBtn">Ocultar ([Espace] para voltar)</button>
+
+<div id="container1">
+
+<h1>Configurações</h1>
+
+<form id="form1">
+
+    <label>Quantidade</label><br><br>
+    <input type="number" id="quantidade" >
+<br><br>
+    <label>Tamanho máximo</label><br><br>
+    <input type="number" id="tamanho">
+<br><br>
+    <label>Velocidade máxima no eixo X</label><br><br>
+    <input type="number" id="velocidadeX">
+<br><br>
+    <label>Velocidade máxima no eixo Y</label><br><br>
+    <input type="number" id="velocidadeY"><br><br>
+    <input id="btn" type="submit">
+
+</form>
+
+</div>
+
+
+<div id="container2">
+
+    <h1>Cores (rgb)</h1>
+    <form id="form2">
+
+        <label>Quantidade de cor vermelha</label><br><br>
+        <input type="number" id="vermelho">
+    <br><br>
+        <label>Quantidade de cor verde</label><br><br>
+        <input type="number" id="verde">
+    <br><br>
+        <label>Quantidade de cor azul</label><br><br>
+        <input type="number" id="azul">
+<br><br>
+        <input id="btn" type="submit">
+    
+    </form>
+
+</div>
+
+</body>
+</html>
