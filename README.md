@@ -10,7 +10,7 @@ https://ionmateus.github.io/bouncing-stars/
 <p>Altere os valores pelos inputs para mudar o comportamento das estrelas.</p>
 
 ## Dados
-* Criado em 13 de maio de 2023
+* Criado em maio de 2023
 * Feito com HTML, CSS e JS
 
 ## Imagens
